@@ -14,7 +14,7 @@ header{
       span{
         font-size: var(--font-size-h2);
         font-family:var(--font-primary);
-        font-weight: var(--font-weight-roboto-medium);
+        font-weight: var(--font-weight-roboto-bold);
         color: var(--primary-red);
       }
     }  
