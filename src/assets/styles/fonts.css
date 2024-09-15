@@ -1,0 +1,35 @@
+:root {
+    /* Fontes Primárias */
+    --font-primary: 'Roboto', sans-serif;
+    --font-secondary: 'Bangers', cursive;
+
+    /* Estilos da Roboto */
+    --font-weight-roboto-light: 100;
+    --font-weight-roboto-regular: 400;
+    --font-weight-roboto-medium: 500;
+    --font-weight-roboto-bold: 700;
+    --font-weight-roboto-black: 900;
+
+    /* Estilo da Bangers */
+    --font-weight-bangers-regular: 400;
+
+    /* Tamanhos de fontes comuns */
+
+    /* 32px */
+    --font-size-h1: 2rem;
+    /* 24px */
+    --font-size-h2: 1.5rem;
+    /* 20px */
+    --font-size-h3: 1.25rem;
+    /* 16px */
+    --font-size-body: 1rem;
+    /* 16px */
+    --font-size-button: 1rem;
+    /* 14px */
+    --font-size-caption: 0.875rem;
+
+    /* Espaçamento entre linhas */
+    --line-height-small: 1.2;
+    --line-height-normal: 1.5;
+    --line-height-large: 1.8;
+}
